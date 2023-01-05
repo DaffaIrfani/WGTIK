@@ -1,4 +1,4 @@
-# WGTIK
+# Muhammad Daffa Irfani
 
 readme ini untuk memenuhi tugas WGTIK pertemuan 14
 Nama : Muhammad Daffa Irfani
